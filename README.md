@@ -1,4 +1,7 @@
-# Hi 👋 I'm Shubham Kumar
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+Shubham+Kumar;MCA+Student+at+NIT+Raipur;Aspiring+Software+Developer;Learning+by+Building+Projects&center=true&width=700&height=60">
+</h1>
+
 
 🎓 MCA Student at NIT Raipur  
 💻 Aspiring Software Developer  
