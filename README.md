@@ -8,7 +8,7 @@
 - Languages: Python, C++, JavaScript
 - ML: NLP, Scikit-learn
 - Web: HTML, CSS, JavaScript, Streamlit
-- Tools: Git, GitHub
+- Tools: Git, GitHub,jupyter Notebook
 
 ## 📌 Projects
 - 📩 SMS Spam Classifier (Machine Learning + NLP)
