@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋 I'm Shubham Kumar
 
-<!--
-**Aishu1284/Aishu1284** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student at NIT Raipur  
+💻 Aspiring Software Developer  
+📍 India  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Languages: Python, C++, JavaScript
+- ML: NLP, Scikit-learn
+- Web: HTML, CSS, JavaScript, Streamlit
+- Tools: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 📩 SMS Spam Classifier (Machine Learning + NLP)
+- 🛍️ Fashion Store Website
+- 📇 MCA Batch Contacts Website
+
+## 🏀 Beyond Code
+- Represented **NIT Raipur** in **Inter-NIT Basketball Tournament**
+- Passionate about team sports, discipline, and leadership
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aishu1284&show_icons=true&theme=tokyonight)
+
+## 📫 Connect with me
+- 📧 Email: shubhamkr563@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/shubham-kumar-a58000217/
