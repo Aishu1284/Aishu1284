@@ -1,10 +1,21 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+Shubham+Kumar;MCA+Student+at+NIT+Raipur;Aspiring+Software+Developer;Learning+by+Building+Projects&center=true&width=700&height=60">
+
+
+  
+  <span style="color:#4F46E5; font-family: 'Segoe UI', sans-serif;">
+    Hi 👋 I'm Shubham Kumar
+     <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+</p>
+  </span>
 </h1>
 
-
-🎓 MCA Student at NIT Raipur  
-💻 Aspiring Software Developer  
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=MCA+Student+at+NIT+Raipur;Aspiring+Software+Developer;Learning+by+Building+Projects" 
+  />
+</p>
+  
 📍 India  
 
 ## 🚀 Skills
